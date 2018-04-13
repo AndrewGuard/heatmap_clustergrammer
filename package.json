@@ -1,0 +1,111 @@
+{
+  "_args": [
+    [
+      {
+        "raw": "clustergrammer",
+        "scope": null,
+        "escapedName": "clustergrammer",
+        "name": "clustergrammer",
+        "rawSpec": "",
+        "spec": "latest",
+        "type": "tag"
+      },
+      "/Users/andrewguard/projects/clustergrammer2"
+    ]
+  ],
+  "_from": "clustergrammer@latest",
+  "_id": "clustergrammer@1.19.5",
+  "_inCache": true,
+  "_location": "/clustergrammer",
+  "_nodeVersion": "6.11.2",
+  "_npmOperationalInternal": {
+    "host": "s3://npm-registry-packages",
+    "tmp": "tmp/clustergrammer_1.19.5_1521061043062_0.8676079756459774"
+  },
+  "_npmUser": {
+    "name": "cornhundred",
+    "email": "nickfloresfernandez@gmail.com"
+  },
+  "_npmVersion": "5.7.1",
+  "_phantomChildren": {},
+  "_requested": {
+    "raw": "clustergrammer",
+    "scope": null,
+    "escapedName": "clustergrammer",
+    "name": "clustergrammer",
+    "rawSpec": "",
+    "spec": "latest",
+    "type": "tag"
+  },
+  "_requiredBy": [
+    "#USER"
+  ],
+  "_resolved": "https://registry.npmjs.org/clustergrammer/-/clustergrammer-1.19.5.tgz",
+  "_shasum": "2ca44c60b1999711104f35dd01f13a932029bfc2",
+  "_shrinkwrap": null,
+  "_spec": "clustergrammer",
+  "_where": "/Users/andrewguard/projects/clustergrammer2",
+  "author": {
+    "name": "Nicolas Fernandez"
+  },
+  "bugs": {
+    "url": "https://github.com/MaayanLab/clustergrammer/issues"
+  },
+  "dependencies": {
+    "awesomplete": "1.1.1",
+    "cornhundred-clusterfck": "^0.7.5",
+    "d3": "^3.5.15",
+    "extend": "^3.0.0",
+    "jquery": "1.11.0",
+    "lodash": "^4.3.0",
+    "mathjs": "3.17.0",
+    "save-svg-as-png": "^1.1.0",
+    "style-loader": "^0.13.1",
+    "tayden-clusterfck": "^0.7.0",
+    "underscore": "1.8.3"
+  },
+  "description": "This is a clustergram implemented in D3.js. I started from the example http://bost.ocks.org/mike/miserables/ and added the following features",
+  "devDependencies": {
+    "babel-core": "^6.14.0",
+    "babel-eslint": "^4.1.8",
+    "babel-loader": "^6.2.5",
+    "babel-preset-es2015": "^6.14.0",
+    "browser-sync": "^2.18.13",
+    "browser-sync-webpack-plugin": "^1.2.0",
+    "css-loader": "^0.23.1",
+    "eslint": "^2.1.0",
+    "expose-loader": "^0.7.1",
+    "less-loader": "^2.2.3",
+    "object-assign": "^4.1.0",
+    "webpack": "^1.13.2"
+  },
+  "directories": {},
+  "dist": {
+    "integrity": "sha512-0t61yI1oDubH2P1xINndfB8XO0vxJ2pOcIInWDkDdrsHLX6fmXswmXNK1A70pO+IYxYi5wKZtjLuQUM8CXxDeg==",
+    "shasum": "2ca44c60b1999711104f35dd01f13a932029bfc2",
+    "tarball": "https://registry.npmjs.org/clustergrammer/-/clustergrammer-1.19.5.tgz",
+    "fileCount": 281,
+    "unpackedSize": 32157265
+  },
+  "gitHead": "15db40813001e28852e93ac5bd1cf087281ff195",
+  "homepage": "https://github.com/MaayanLab/clustergrammer#readme",
+  "license": "MIT",
+  "main": "clustergrammer.node.js",
+  "maintainers": [
+    {
+      "name": "cornhundred",
+      "email": "nickfloresfernandez@gmail.com"
+    }
+  ],
+  "name": "clustergrammer",
+  "optionalDependencies": {},
+  "readme": "ERROR: No README data found!",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MaayanLab/clustergrammer.git"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "version": "1.19.5"
+}
