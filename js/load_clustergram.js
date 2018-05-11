@@ -4,7 +4,11 @@ Example files
 
 var hzome = ini_hzome();
 
+console.time('make_clust');
+
 make_clust('mult_view.json');
+
+console.timeEnd('make_clust');
 
 var about_string = 'Zoom, scroll, and click buttons to interact with the clustergram. <a href="http://amp.pharm.mssm.edu/clustergrammer/help"> <i class="fa fa-question-circle" aria-hidden="true"></i> </a>';
 
@@ -44,6 +48,7 @@ function make_clust(inst_network){
   });
 
 }
+
 
 function matrix_update_callback(){
 

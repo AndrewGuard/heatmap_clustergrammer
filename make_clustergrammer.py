@@ -12,14 +12,27 @@ net = Network()
 
 # load matrix tsv file
 
+# WORKING SAMPLES
+# net.load_file('txt/micro_altered.tsv')
+# net.load_file('txt/tuple_micro_simplified.tsv')
+net.load_file('txt/tuple_micro_simplified_tiny.tsv')
+
+
+
+# net.load_file('txt/KEA_matrix.txt')
+
+# net.load_file('txt/example_tsv.txt')
 # net.load_file('txt/rc_two_cats.txt')
-net.load_file('txt/rc_two_cats.txt')
+
+# net.load_file('txt/micro.tsv')
+# net.load_file('txt/tuple_micro.txt')
+# net.load_file('txt/micro_altered2.tsv')
+
 
 # net.load_file('txt/ccle_example.txt')
 # net.load_file('txt/rc_val_cats.txt')
 # net.load_file('txt/number_labels.txt')
 # net.load_file('txt/mnist.txt')
-# net.load_file('txt/tuple_cats.txt')
 # net.load_file('txt/example_tsv.txt')
 
 # net.enrichrgram('KEA_2015')
@@ -42,7 +55,7 @@ net.load_file('txt/rc_two_cats.txt')
 
 net.cluster(dist_type='cos',views=['N_row_sum', 'N_row_var'] , dendro=True,
                sim_mat=True, filter_sim=0.1, calc_cat_pval=False, enrichrgram=
-               False, run_clustering=True)
+               False, run_clustering=False)
 
 
 

@@ -1,0 +1,13 @@
+<h1>No Method Supplied</h1>
+<h2></h2>
+<pre>Error: No Method Supplied
+    at Error (native)
+    at module.exports.methodDef (/disks/space0/p3/production/p3-api/deployment/services/p3_api_service/app/routes/rpcHandler.js:22:11)
+    at WebFrameworkShim.applySegment (/disks/space0/p3/production/p3-api/deployment/services/p3_api_service/app/node_modules/newrelic/lib/shim/shim.js:1334:17)
+    at _applyRecorderSegment (/disks/space0/p3/production/p3-api/deployment/services/p3_api_service/app/node_modules/newrelic/lib/shim/shim.js:945:20)
+    at _doRecord (/disks/space0/p3/production/p3-api/deployment/services/p3_api_service/app/node_modules/newrelic/lib/shim/shim.js:924:17)
+    at /disks/space0/p3/production/p3-api/deployment/services/p3_api_service/app/node_modules/newrelic/lib/shim/shim.js:909:24
+    at Layer.handle [as handle_request] (/disks/space0/p3/production/p3-api/deployment/services/p3_api_service/app/node_modules/express/lib/router/layer.js:95:5)
+    at next (/disks/space0/p3/production/p3-api/deployment/services/p3_api_service/app/node_modules/express/lib/router/route.js:131:13)
+    at boundNext (/disks/space0/p3/production/p3-api/deployment/services/p3_api_service/app/node_modules/newrelic/lib/shim/webframework-shim.js:960:27)
+    at WebFrameworkShim.applySegment (/disks/space0/p3/production/p3-api/deployment/services/p3_api_service/app/node_modules/newrelic/lib/shim/shim.js:1334:17)</pre>

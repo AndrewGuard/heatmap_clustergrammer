@@ -1,0 +1,440 @@
+{
+  "row_nodes": [
+    {
+      "name": "FAMILY: PGF_00000027-1",
+      "ini": 4,
+      "clust": 4,
+      "rank": 0,
+      "rankvar": 2,
+      "cat-0": "FAMILY Name: Uncharacterized protein YmdB",
+      "cat_0_index": 1
+    },
+    {
+      "name": "FAMILY: PGF_00000060-2",
+      "ini": 3,
+      "clust": 3,
+      "rank": 1,
+      "rankvar": 3,
+      "cat-0": "FAMILY Name: FIG006581 hypothetical protein",
+      "cat_0_index": 0
+    },
+    {
+      "name": "FAMILY: PGF_00000027-3",
+      "ini": 2,
+      "clust": 2,
+      "rank": 3,
+      "rankvar": 0,
+      "cat-0": "FAMILY Name: foo",
+      "cat_0_index": 3
+    },
+    {
+      "name": "FAMILY: PGF_00000060-4",
+      "ini": 1,
+      "clust": 1,
+      "rank": 2,
+      "rankvar": 1,
+      "cat-0": "FAMILY Name: bar",
+      "cat_0_index": 2
+    }
+  ],
+  "col_nodes": [
+    {
+      "name": "Genome: 1004954.6",
+      "ini": 3,
+      "clust": 3,
+      "rank": 0,
+      "rankvar": 0,
+      "cat-0": "NAME: Brucella suis bv 1 str S2",
+      "cat_0_index": 0
+    },
+    {
+      "name": "Genome: 520487.6",
+      "ini": 2,
+      "clust": 2,
+      "rank": 2,
+      "rankvar": 1,
+      "cat-0": "NAME: Brucella suis bv 3 str 686",
+      "cat_0_index": 1
+    },
+    {
+      "name": "Genome: 29461.21",
+      "ini": 1,
+      "clust": 1,
+      "rank": 1,
+      "rankvar": 2,
+      "cat-0": "NAME: Brucella suis strain Human/AR/US/1981",
+      "cat_0_index": 2
+    }
+  ],
+  "links": [],
+  "mat": [
+    [
+      1,
+      8,
+      1
+    ],
+    [
+      1,
+      8,
+      1
+    ],
+    [
+      2,
+      6,
+      7
+    ],
+    [
+      3,
+      8,
+      2
+    ]
+  ],
+  "cat_colors": {
+    "row": {
+      "cat-0": {
+        "FAMILY Name: FIG006581 hypothetical protein": "#393b79",
+        "FAMILY Name: Uncharacterized protein YmdB": "#ff7f0e",
+        "FAMILY Name: bar": "#98df8a",
+        "FAMILY Name: foo": "#404040"
+      }
+    },
+    "col": {
+      "cat-0": {
+        "NAME: Brucella suis bv 1 str S2": "#98df8a",
+        "NAME: Brucella suis bv 3 str 686": "#404040",
+        "NAME: Brucella suis strain Human/AR/US/1981": "#c5b0d5"
+      }
+    }
+  },
+  "views": [
+    {
+      "N_row_sum": "all",
+      "dist": "cos",
+      "nodes": {
+        "row_nodes": [
+          {
+            "name": "FAMILY: PGF_00000027-1",
+            "ini": 4,
+            "clust": 2,
+            "rank": 0,
+            "rankvar": 2,
+            "cat-0": "FAMILY Name: Uncharacterized protein YmdB",
+            "cat_0_index": 1,
+            "group": [
+              1.0,
+              1.0,
+              1.0,
+              1.0,
+              1.0,
+              1.0,
+              1.0,
+              1.0,
+              1.0,
+              1.0,
+              1.0
+            ]
+          },
+          {
+            "name": "FAMILY: PGF_00000060-2",
+            "ini": 3,
+            "clust": 3,
+            "rank": 1,
+            "rankvar": 3,
+            "cat-0": "FAMILY Name: FIG006581 hypothetical protein",
+            "cat_0_index": 0,
+            "group": [
+              2.0,
+              1.0,
+              1.0,
+              1.0,
+              1.0,
+              1.0,
+              1.0,
+              1.0,
+              1.0,
+              1.0,
+              1.0
+            ]
+          },
+          {
+            "name": "FAMILY: PGF_00000027-3",
+            "ini": 2,
+            "clust": 0,
+            "rank": 3,
+            "rankvar": 0,
+            "cat-0": "FAMILY Name: foo",
+            "cat_0_index": 3,
+            "group": [
+              4.0,
+              3.0,
+              2.0,
+              2.0,
+              2.0,
+              2.0,
+              2.0,
+              2.0,
+              2.0,
+              1.0,
+              1.0
+            ]
+          },
+          {
+            "name": "FAMILY: PGF_00000060-4",
+            "ini": 1,
+            "clust": 1,
+            "rank": 2,
+            "rankvar": 1,
+            "cat-0": "FAMILY Name: bar",
+            "cat_0_index": 2,
+            "group": [
+              3.0,
+              2.0,
+              1.0,
+              1.0,
+              1.0,
+              1.0,
+              1.0,
+              1.0,
+              1.0,
+              1.0,
+              1.0
+            ]
+          }
+        ],
+        "col_nodes": [
+          {
+            "name": "Genome: 1004954.6",
+            "ini": 3,
+            "clust": 1,
+            "rank": 0,
+            "rankvar": 0,
+            "cat-0": "NAME: Brucella suis bv 1 str S2",
+            "cat_0_index": 0,
+            "group": [
+              1.0,
+              1.0,
+              1.0,
+              1.0,
+              1.0,
+              1.0,
+              1.0,
+              1.0,
+              1.0,
+              1.0,
+              1.0
+            ]
+          },
+          {
+            "name": "Genome: 520487.6",
+            "ini": 2,
+            "clust": 2,
+            "rank": 2,
+            "rankvar": 1,
+            "cat-0": "NAME: Brucella suis bv 3 str 686",
+            "cat_0_index": 1,
+            "group": [
+              2.0,
+              2.0,
+              2.0,
+              2.0,
+              1.0,
+              1.0,
+              1.0,
+              1.0,
+              1.0,
+              1.0,
+              1.0
+            ]
+          },
+          {
+            "name": "Genome: 29461.21",
+            "ini": 1,
+            "clust": 0,
+            "rank": 1,
+            "rankvar": 2,
+            "cat-0": "NAME: Brucella suis strain Human/AR/US/1981",
+            "cat_0_index": 2,
+            "group": [
+              3.0,
+              3.0,
+              3.0,
+              3.0,
+              2.0,
+              2.0,
+              2.0,
+              2.0,
+              2.0,
+              1.0,
+              1.0
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "N_row_var": "all",
+      "dist": "cos",
+      "nodes": {
+        "row_nodes": [
+          {
+            "name": "FAMILY: PGF_00000027-1",
+            "ini": 4,
+            "clust": 2,
+            "rank": 0,
+            "rankvar": 2,
+            "cat-0": "FAMILY Name: Uncharacterized protein YmdB",
+            "cat_0_index": 1,
+            "group": [
+              1.0,
+              1.0,
+              1.0,
+              1.0,
+              1.0,
+              1.0,
+              1.0,
+              1.0,
+              1.0,
+              1.0,
+              1.0
+            ]
+          },
+          {
+            "name": "FAMILY: PGF_00000060-2",
+            "ini": 3,
+            "clust": 3,
+            "rank": 1,
+            "rankvar": 3,
+            "cat-0": "FAMILY Name: FIG006581 hypothetical protein",
+            "cat_0_index": 0,
+            "group": [
+              2.0,
+              1.0,
+              1.0,
+              1.0,
+              1.0,
+              1.0,
+              1.0,
+              1.0,
+              1.0,
+              1.0,
+              1.0
+            ]
+          },
+          {
+            "name": "FAMILY: PGF_00000027-3",
+            "ini": 2,
+            "clust": 0,
+            "rank": 3,
+            "rankvar": 0,
+            "cat-0": "FAMILY Name: foo",
+            "cat_0_index": 3,
+            "group": [
+              4.0,
+              3.0,
+              2.0,
+              2.0,
+              2.0,
+              2.0,
+              2.0,
+              2.0,
+              2.0,
+              1.0,
+              1.0
+            ]
+          },
+          {
+            "name": "FAMILY: PGF_00000060-4",
+            "ini": 1,
+            "clust": 1,
+            "rank": 2,
+            "rankvar": 1,
+            "cat-0": "FAMILY Name: bar",
+            "cat_0_index": 2,
+            "group": [
+              3.0,
+              2.0,
+              1.0,
+              1.0,
+              1.0,
+              1.0,
+              1.0,
+              1.0,
+              1.0,
+              1.0,
+              1.0
+            ]
+          }
+        ],
+        "col_nodes": [
+          {
+            "name": "Genome: 1004954.6",
+            "ini": 3,
+            "clust": 1,
+            "rank": 0,
+            "rankvar": 0,
+            "cat-0": "NAME: Brucella suis bv 1 str S2",
+            "cat_0_index": 0,
+            "group": [
+              1.0,
+              1.0,
+              1.0,
+              1.0,
+              1.0,
+              1.0,
+              1.0,
+              1.0,
+              1.0,
+              1.0,
+              1.0
+            ]
+          },
+          {
+            "name": "Genome: 520487.6",
+            "ini": 2,
+            "clust": 2,
+            "rank": 2,
+            "rankvar": 1,
+            "cat-0": "NAME: Brucella suis bv 3 str 686",
+            "cat_0_index": 1,
+            "group": [
+              2.0,
+              2.0,
+              2.0,
+              2.0,
+              1.0,
+              1.0,
+              1.0,
+              1.0,
+              1.0,
+              1.0,
+              1.0
+            ]
+          },
+          {
+            "name": "Genome: 29461.21",
+            "ini": 1,
+            "clust": 0,
+            "rank": 1,
+            "rankvar": 2,
+            "cat-0": "NAME: Brucella suis strain Human/AR/US/1981",
+            "cat_0_index": 2,
+            "group": [
+              3.0,
+              3.0,
+              3.0,
+              3.0,
+              2.0,
+              2.0,
+              2.0,
+              2.0,
+              2.0,
+              1.0,
+              1.0
+            ]
+          }
+        ]
+      }
+    }
+  ],
+  "enrichrgram": false
+}

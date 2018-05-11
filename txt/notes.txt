@@ -1,0 +1,4 @@
+tuple_micro.txt 
+
+	does not like semicolons inside names or text
+	

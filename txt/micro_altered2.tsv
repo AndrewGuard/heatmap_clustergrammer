@@ -1,0 +1,206 @@
+		GENOME: 1004954.6	GENOME: 520487.6	GENOME: 29461.21
+		NAME: Brucella suis bv. 1 str. S2	NAME: Brucella suis bv. 3 str. 686	NAME: Brucella suis strain Human AR US 1981
+FAMILY: PGF_00000027	FAMILY Name: Uncharacterized protein YmdB	1	8	1
+FAMILY: PGF_00000060	FAMILY Name: FIG006581: hypothetical protein	1	8	1
+FAMILY: PGF_00000161	FAMILY Name: 7-alpha-hydroxysteroid dehydrogenase (EC 1.1.1.159)	2	16	2
+FAMILY: PGF_00000251	FAMILY Name: FIG00740902: hypothetical protein	1	8	1
+FAMILY: PGF_00000261	FAMILY Name: 8-amino-7-oxononanoate synthase (EC 2.3.1.47)	1	8	1
+FAMILY: PGF_00000363	FAMILY Name: FIG00792028: hypothetical protein	1	8	1
+FAMILY: PGF_00000364	FAMILY Name: FIG00792156: hypothetical protein	1	8	1
+FAMILY: PGF_00000372	FAMILY Name: FIG00793409: hypothetical protein	1	8	1
+FAMILY: PGF_00000416	FAMILY Name: A G-specific adenine glycosylase (EC 3.2.2.-)	1	8	1
+FAMILY: PGF_00000890	FAMILY Name: FIG00883734: hypothetical protein	1	8	1
+FAMILY: PGF_00000892	FAMILY Name: FIG00883991: hypothetical protein	1	8	1
+FAMILY: PGF_00000897	FAMILY Name: FIG00884245: hypothetical protein	1	8	1
+FAMILY: PGF_00000899	FAMILY Name: FIG00884354: hypothetical protein	1	8	1
+FAMILY: PGF_00000936	FAMILY Name: FIG00899427: hypothetical protein	1	8	1
+FAMILY: PGF_00001268	FAMILY Name: FIG00983982: hypothetical protein	1	8	1
+FAMILY: PGF_00001273	FAMILY Name: FIG00984076: hypothetical protein	1	8	1
+FAMILY: PGF_00001295	FAMILY Name: FIG00985384: hypothetical protein	1	8	1
+FAMILY: PGF_00002124	FAMILY Name: ABC transporter involved in cytochrome c biogenesis, ATPase component CcmA	1	8	1
+FAMILY: PGF_00002375	FAMILY Name: ABC transporter, substrate-binding protein (cluster 10, nitrate sulfonate bicarbonate)	2	16	2
+FAMILY: PGF_00002425	FAMILY Name: FIG01306805: hypothetical protein	1	8	1
+FAMILY: PGF_00002426	FAMILY Name: FIG01306807: hypothetical protein	1	8	1
+FAMILY: PGF_00002427	FAMILY Name: FIG01306808: hypothetical protein	1	8	1
+FAMILY: PGF_00002554	FAMILY Name: FIG017823: ATPase, MoxR family	1	8	1
+FAMILY: PGF_00002570	FAMILY Name: FIG018229: hypothetical protein	1	8	1
+FAMILY: PGF_00002592	FAMILY Name: FIG01964566: Predicted membrane protein, hemolysin III homolog	1	8	1
+FAMILY: PGF_00002615	FAMILY Name: FIG020313: hypothetical protein	1	8	1
+FAMILY: PGF_00002835	FAMILY Name: O-antigen export system, ATP-binding protein	1	8	1
+FAMILY: PGF_00002885	FAMILY Name: FIG026765: hypothetical protein	1	8	1
+FAMILY: PGF_00003021	FAMILY Name: FIG035060: hypothetical protein	1	8	1
+FAMILY: PGF_00003061	FAMILY Name: FIG038036: Predicted membrane protein	1	8	1
+FAMILY: PGF_00003067	FAMILY Name: FIG038675: hypothetical protein	1	8	1
+FAMILY: PGF_00003085	FAMILY Name: FIG040666: hypothetical protein perhaps implicated in de Novo purine biosynthesis	1	8	1
+FAMILY: PGF_00003090	FAMILY Name: FIG041266: ATP-dependent nuclease subunit B	1	8	1
+FAMILY: PGF_00003100	FAMILY Name: FIG042921: similarity to aminoacyl-tRNA editing enzymes YbaK, ProX	1	8	1
+FAMILY: PGF_00003128	FAMILY Name: FIG046685: Glycosyltransferase	1	8	1
+FAMILY: PGF_00003133	FAMILY Name: FIG048170: Secreted Zn-dependent protease involved in posttranslational modification	1	8	1
+FAMILY: PGF_00003167	FAMILY Name: FIG048711: hypothetical protein	1	8	1
+FAMILY: PGF_00003175	FAMILY Name: FIG049039: Transcriptional regulator, LysR family	1	8	1
+FAMILY: PGF_00003220	FAMILY Name: FIG056333: sensor	1	8	1
+FAMILY: PGF_00003243	FAMILY Name: FIG061771: ATP-dependent nuclease subunit A	1	8	1
+FAMILY: PGF_00003257	FAMILY Name: FIG065752: hypothetical protein	1	8	1
+FAMILY: PGF_00003420	FAMILY Name: FIG097019: Amino acid efflux protein	2	16	2
+FAMILY: PGF_00003448	FAMILY Name: FIG110192: hypothetical protein	1	8	1
+FAMILY: PGF_00003526	FAMILY Name: FIG137887: membrane protein related to purine degradation	1	8	1
+FAMILY: PGF_00003537	FAMILY Name: FIG139612: Possible conserved membrane protein	1	8	1
+FAMILY: PGF_00003664	FAMILY Name: FIG147869: Carbon-nitrogen hydrolase   Aliphatic amidase AmiE (EC 3.5.1.4)	1	8	1
+FAMILY: PGF_00003689	FAMILY Name: FIG167255: hypothetical protein	1	8	1
+FAMILY: PGF_00003989	FAMILY Name: FOG: TPR repeat, SEL1 subfamily	1	8	1
+FAMILY: PGF_00004033	FAMILY Name: Efflux ABC transporter, permease ATP-binding protein ExsA	1	8	1
+FAMILY: PGF_00004054	FAMILY Name: Farnesyl cysteine carboxyl-methyltransferase (EC 2.1.1.100)	1	8	1
+FAMILY: PGF_00004099	FAMILY Name: ABC transporter, substrate-binding protein (cluster 2, ribose xylose arabinose galactose)	1	8	1
+FAMILY: PGF_00004231	FAMILY Name: Inner membrane transport permease YhhJ	1	8	1
+FAMILY: PGF_00004378	FAMILY Name: Ferredoxin--NADP(+) reductase (EC 1.18.1.2)	1	8	1
+FAMILY: PGF_00004438	FAMILY Name: Vitamin B12 ABC transporter, ATP-binding protein BtuD	1	8	1
+FAMILY: PGF_00004465	FAMILY Name: Ferric iron ABC transporter, ATP-binding protein	1	8	1
+FAMILY: PGF_00004481	FAMILY Name: Ferric iron ABC transporter, permease protein	2	16	2
+FAMILY: PGF_00005284	FAMILY Name: Flagellar M-ring protein FliF	1	8	1
+FAMILY: PGF_00005288	FAMILY Name: Flagellar P-ring protein FlgI	1	8	1
+FAMILY: PGF_00005318	FAMILY Name: Flagellar basal body-associated protein FliL	1	8	1
+FAMILY: PGF_00005331	FAMILY Name: Flagellar basal-body P-ring formation protein FlgA	1	8	1
+FAMILY: PGF_00005354	FAMILY Name: Flagellar basal-body rod protein FlgC	1	8	1
+FAMILY: PGF_00005355	FAMILY Name: Flagellar basal-body rod protein FlgF	1	8	1
+FAMILY: PGF_00005358	FAMILY Name: Flagellar basal-body rod protein FlgG	1	8	1
+FAMILY: PGF_00005384	FAMILY Name: Flagellar biosynthesis protein FlhA	1	8	1
+FAMILY: PGF_00005402	FAMILY Name: Flagellar biosynthesis protein FliQ	1	8	1
+FAMILY: PGF_00005450	FAMILY Name: Flagellar hook protein FlgE	1	8	1
+FAMILY: PGF_00005454	FAMILY Name: Flagellar hook-associated protein FlgK	1	8	1
+FAMILY: PGF_00005481	FAMILY Name: Flagellar hook-length control protein FliK	1	8	1
+FAMILY: PGF_00005526	FAMILY Name: Flagellar motor switch protein FliM	1	8	1
+FAMILY: PGF_00005572	FAMILY Name: Flagellar protein FlgJ [peptidoglycan hydrolase]	1	8	1
+FAMILY: PGF_00005614	FAMILY Name: Flagellar protein FliJ	1	8	1
+FAMILY: PGF_00005662	FAMILY Name: Flagellum biosynthesis repressor protein FlbT	1	8	1
+FAMILY: PGF_00005780	FAMILY Name: ABC transporter, substrate-binding protein (cluster 1, maltose g3p polyamine iron)	4	32	4
+FAMILY: PGF_00006100	FAMILY Name: tRNA-modifying protein YgfZ	1	8	1
+FAMILY: PGF_00006278	FAMILY Name: Formiminoglutamic iminohydrolase (EC 3.5.3.13)	1	8	1
+FAMILY: PGF_00006320	FAMILY Name: Formyltetrahydrofolate deformylase (EC 3.5.1.10)	1	8	1
+FAMILY: PGF_00006323	FAMILY Name: Fosfomycin resistance protein FosX	1	8	1
+FAMILY: PGF_00006378	FAMILY Name: Fructose-1,6-bisphosphatase, GlpX type (EC 3.1.3.11)	1	8	1
+FAMILY: PGF_00006394	FAMILY Name: Fructose-bisphosphate aldolase class II (EC 4.1.2.13)	1	8	1
+FAMILY: PGF_00006449	FAMILY Name: Fumarate hydratase class I (EC 4.2.1.2)	1	8	1
+FAMILY: PGF_00006461	FAMILY Name: Fumarate hydratase class II (EC 4.2.1.2)	1	8	1
+FAMILY: PGF_00006506	FAMILY Name: Fumarate succinate L-aspartate dehydrogenases	1	8	1
+FAMILY: PGF_00006520	FAMILY Name: Fumarylpyruvate hydrolase (EC 3.7.1.5)	1	8	1
+FAMILY: PGF_00006740	FAMILY Name: GDP-perosamine synthase (EC 2.6.1.102)	1	8	1
+FAMILY: PGF_00006744	FAMILY Name: GENE II AND X PROTEINS	1	8	1
+FAMILY: PGF_00006924	FAMILY Name: GLUCOSE 1-DEHYDROGENASE II (EC 1.1.1.47)	1	8	1
+FAMILY: PGF_00006935	FAMILY Name: GMP synthase [glutamine-hydrolyzing], amidotransferase subunit (EC 6.3.5.2)   GMP synthase [glutamine-hydrolyzing], ATP pyrophosphatase subunit (EC 6.3.5.2)	1	8	1
+FAMILY: PGF_00007012	FAMILY Name: GTP-binding and nucleic acid-binding protein YchF	1	8	1
+FAMILY: PGF_00007014	FAMILY Name: GTP-binding protein	1	8	1
+FAMILY: PGF_00007024	FAMILY Name: GTP-binding protein EngA	1	8	1
+FAMILY: PGF_00007026	FAMILY Name: GTP-binding protein EngB	1	8	1
+FAMILY: PGF_00007027	FAMILY Name: GTP-binding protein Era	1	8	1
+FAMILY: PGF_00007028	FAMILY Name: Ribosome LSU-associated GTP-binding protein HflX	1	8	1
+FAMILY: PGF_00007041	FAMILY Name: GTP-binding protein TypA BipA	1	8	1
+FAMILY: PGF_00007057	FAMILY Name: tRNA-5-carboxymethylaminomethyl-2-thiouridine(34) synthesis protein MnmE	1	8	1
+FAMILY: PGF_00007090	FAMILY Name: Galactonate dehydratase (EC 4.2.1.6)	1	8	1
+FAMILY: PGF_00007229	FAMILY Name: GbcA family protein, putative N1-methylnicotinamide or trigonelline demethylase	1	8	1
+FAMILY: PGF_00007231	FAMILY Name: GbcB family protein	1	8	1
+FAMILY: PGF_00007235	FAMILY Name: GcrA cell cycle regulator	1	8	1
+FAMILY: PGF_00007252	FAMILY Name: Gene Transfer Agent (GTA) ORFG06	1	8	1
+FAMILY: PGF_00007266	FAMILY Name: Gene Transfer Agent FAD FMN-containing dehydrogenase	1	8	1
+FAMILY: PGF_00007268	FAMILY Name: Gene Transfer Agent NlpC P60 family peptidase	1	8	1
+FAMILY: PGF_00007270	FAMILY Name: Gene Transfer Agent associated protein Atu0955	1	8	1
+FAMILY: PGF_00007277	FAMILY Name: Gene Transfer Agent capsid protein; Phage major capsid protein	1	8	1
+FAMILY: PGF_00007281	FAMILY Name: Gene Transfer Agent head-tail adaptor protein	1	8	1
+FAMILY: PGF_00007284	FAMILY Name: Gene Transfer Agent portal protein	1	8	1
+FAMILY: PGF_00007285	FAMILY Name: Gene Transfer Agent prohead protease	1	8	1
+FAMILY: PGF_00007290	FAMILY Name: Gene Transfer Agent tail protein	1	8	1
+FAMILY: PGF_00007291	FAMILY Name: Gene Transfer Agent tail tape measure	1	8	1
+FAMILY: PGF_00007293	FAMILY Name: Gene Transfer Agent terminase protein	1	8	1
+FAMILY: PGF_00007304	FAMILY Name: 16S rRNA (cytidine(1402)-2'-O)-methyltransferase (EC 2.1.1.198)	1	8	1
+FAMILY: PGF_00007575	FAMILY Name: Gfa-like protein	1	8	1
+FAMILY: PGF_00007632	FAMILY Name: 16S rRNA (cytosine(1402)-N(4))-methyltransferase (EC 2.1.1.199)	1	8	1
+FAMILY: PGF_00007712	FAMILY Name: Gifsy-2 prophage protein	1	8	1
+FAMILY: PGF_00007844	FAMILY Name: Glucokinase (EC 2.7.1.2)	1	8	1
+FAMILY: PGF_00007925	FAMILY Name: Glucosamine-6-phosphate deaminase [isomerizing], alternative (EC 3.5.99.6)	1	8	1
+FAMILY: PGF_00007973	FAMILY Name: Glucose-1-phosphate cytidylyltransferase (EC 2.7.7.33)	1	8	1
+FAMILY: PGF_00007988	FAMILY Name: Glucose-6-phosphate isomerase (EC 5.3.1.9)	1	8	1
+FAMILY: PGF_00008000	FAMILY Name: 1,5-anhydro-D-fructose reductase (1,5-anhydro-D-mannitol-forming) (EC 1.1.1.292)	1	8	1
+FAMILY: PGF_00008009	FAMILY Name: Glucose galactose transporter	2	16	2
+FAMILY: PGF_00008051	FAMILY Name: 16S rRNA (cytosine(967)-C(5))-methyltransferase (EC 2.1.1.176)	1	8	1
+FAMILY: PGF_00008061	FAMILY Name: Glutamate 5-kinase (EC 2.7.2.11)   RNA-binding C-terminal domain PUA	1	8	1
+FAMILY: PGF_00008075	FAMILY Name: Glutamate N-acetyltransferase (EC 2.3.1.35) @ N-acetylglutamate synthase (EC 2.3.1.1)	1	8	1
+FAMILY: PGF_00008094	FAMILY Name: Glutamate decarboxylase (EC 4.1.1.15)	2	16	2
+FAMILY: PGF_00008106	FAMILY Name: Glutamate racemase (EC 5.1.1.3)	1	8	1
+FAMILY: PGF_00008115	FAMILY Name: Glutamate synthase [NADPH] large chain (EC 1.4.1.13)	1	8	1
+FAMILY: PGF_00008154	FAMILY Name: glutamine synthetase family protein	2	16	2
+FAMILY: PGF_00008192	FAMILY Name: Glutaminase (EC 3.5.1.2)	1	8	2
+FAMILY: PGF_00008239	FAMILY Name: Glutamine amidotransferase, class I	1	8	1
+FAMILY: PGF_00008246	FAMILY Name: Glutamine amidotransferases class-II	1	8	1
+FAMILY: PGF_00008258	FAMILY Name: Glutamine synthetase type I (EC 6.3.1.2)	1	8	1
+FAMILY: PGF_00008335	FAMILY Name: Glutamyl-tRNA synthetase (EC 6.1.1.17)	1	8	1
+FAMILY: PGF_00008342	FAMILY Name: Glutamyl-tRNA(Gln) synthetase (EC 6.1.1.24)	1	8	1
+FAMILY: PGF_00008355	FAMILY Name: Glutaredoxin 3 (Grx2)	1	8	1
+FAMILY: PGF_00008381	FAMILY Name: Glutaredoxin-like protein NrdH, required for reduction of Ribonucleotide reductase class Ib	1	8	1
+FAMILY: PGF_00008393	FAMILY Name: Glutaryl-CoA dehydrogenase (EC 1.3.8.6)	1	8	1
+FAMILY: PGF_00008430	FAMILY Name: Glutathione S-transferase family protein	1	8	1
+FAMILY: PGF_00008439	FAMILY Name: Glutathione S-transferase, omega (EC 2.5.1.18)	1	8	1
+FAMILY: PGF_00008469	FAMILY Name: Glutathione synthetase (EC 6.3.2.3)	1	8	1
+FAMILY: PGF_00008537	FAMILY Name: Glycerol kinase (EC 2.7.1.30)	1	8	1
+FAMILY: PGF_00008593	FAMILY Name: Ribosome-associated ATPase RbbA	1	8	1
+FAMILY: PGF_00008611	FAMILY Name: Glycerol-3-phosphate dehydrogenase [NAD(P)+] (EC 1.1.1.94)	1	8	1
+FAMILY: PGF_00008651	FAMILY Name: Glycerophosphoryl diester phosphodiesterase (EC 3.1.4.46)	1	8	1
+FAMILY: PGF_00008773	FAMILY Name: Glycine dehydrogenase [decarboxylating] (glycine cleavage system P protein) (EC 1.4.4.2)	1	8	1
+FAMILY: PGF_00008780	FAMILY Name: Glycine oxidase ThiO (EC 1.4.3.19)	1	8	1
+FAMILY: PGF_00008813	FAMILY Name: Glycine D-amino acid oxidase	1	8	1
+FAMILY: PGF_00008838	FAMILY Name: 16S rRNA (guanine(527)-N(7))-methyltransferase (EC 2.1.1.170)	1	8	1
+FAMILY: PGF_00008846	FAMILY Name: Homodimeric efflux ABC transporter, ATP-binding permease protein	1	8	1
+FAMILY: PGF_00008882	FAMILY Name: Glycolate dehydrogenase (EC 1.1.99.14), FAD-binding subunit GlcE	1	8	1
+FAMILY: PGF_00008885	FAMILY Name: Glycolate dehydrogenase (EC 1.1.99.14), iron-sulfur subunit GlcF	1	8	1
+FAMILY: PGF_00008893	FAMILY Name: Glycolate utilization operon transcriptional activator GlcC	1	8	1
+FAMILY: PGF_00008901	FAMILY Name: Glycoprotein	1	8	1
+FAMILY: PGF_00009199	FAMILY Name: LPS-core biosynthesis glycosyltransferase WadB	1	8	1
+FAMILY: PGF_00009421	FAMILY Name: Glycosyl transferase, group 1 family protein	1	8	1
+FAMILY: PGF_00009500	FAMILY Name: 16S rRNA (guanine(966)-N(2))-methyltransferase (EC 2.1.1.171)	1	8	1
+FAMILY: PGF_00009520	FAMILY Name: Glycosyl transferase, group 2 family	1	8	1
+FAMILY: PGF_00009546	FAMILY Name: Glycosyl transferase, group 2 family	1	8	1
+FAMILY: PGF_00009547	FAMILY Name: Glycosyl transferase, group 2 family	1	8	1
+FAMILY: PGF_00009594	FAMILY Name: Glycosyl transferase, group 2 family protein, a member of the cellulose synthase superfamily	1	8	1
+FAMILY: PGF_00009621	FAMILY Name: Glycosyltransferase	1	8	1
+FAMILY: PGF_00009891	FAMILY Name: Glycosyltransferase involved in cell wall biogenesis	1	8	1
+FAMILY: PGF_00009925	FAMILY Name: Glycosyltransferase, group 1 family protein	1	8	1
+FAMILY: PGF_00009967	FAMILY Name: Glycyl-tRNA synthetase alpha chain (EC 6.1.1.14)	1	8	1
+FAMILY: PGF_00009969	FAMILY Name: Glycyl-tRNA synthetase beta chain (EC 6.1.1.14)	2	16	2
+FAMILY: PGF_00009998	FAMILY Name: Glyoxalase family protein	1	8	1
+FAMILY: PGF_00010001	FAMILY Name: Glyoxalase family protein	1	8	1
+FAMILY: PGF_00010034	FAMILY Name: Glyoxalase family protein	1	8	1
+FAMILY: PGF_00010051	FAMILY Name: Glyoxalase Bleomycin resistance protein dioxygenase domain	1	8	1
+FAMILY: PGF_00010055	FAMILY Name: Glyoxalase Bleomycin resistance protein dioxygenase domain	1	8	1
+FAMILY: PGF_00010205	FAMILY Name: 16S rRNA (uracil(1498)-N(3))-methyltransferase (EC 2.1.1.193)	1	8	1
+FAMILY: PGF_00010332	FAMILY Name: Guanine deaminase (EC 3.5.4.3)	1	8	1
+FAMILY: PGF_00010349	FAMILY Name: Guanosine-3',5'-bis(diphosphate) 3'-pyrophosphohydrolase (EC 3.1.7.2)   GTP pyrophosphokinase (EC 2.7.6.5), (p)ppGpp synthetase II	1	8	1
+FAMILY: PGF_00010360	FAMILY Name: Guanylate kinase (EC 2.7.4.8)	1	8	1
+FAMILY: PGF_00010475	FAMILY Name: ABC-type polar amino acid transport system protein, ATP-binding protein	1	8	1
+FAMILY: PGF_00010574	FAMILY Name: HDED PROTEIN	1	8	1
+FAMILY: PGF_00010630	FAMILY Name: HIT1 PROTEIN	1	8	1
+FAMILY: PGF_00010692	FAMILY Name: HPr kinase phosphorylase	1	8	1
+FAMILY: PGF_00010719	FAMILY Name: Transcriptional regulator BetI, TetR family	1	8	1
+FAMILY: PGF_00010738	FAMILY Name: HTH-type transcriptional regulator PetP	1	8	1
+FAMILY: PGF_00010960	FAMILY Name: 16S ribosomal RNA m(5)C 967 methyltransferase	1	8	1
+FAMILY: PGF_00011081	FAMILY Name: Helicase PriA essential for oriC DnaA-independent DNA replication	1	8	1
+FAMILY: PGF_00011216	FAMILY Name: Helix-turn-helix protein, copG family	1	8	1
+FAMILY: PGF_00011277	FAMILY Name: Heme A synthase, cytochrome oxidase biogenesis protein Cox15-CtaA	1	8	1
+FAMILY: PGF_00011321	FAMILY Name: Heme O synthase, protoheme IX farnesyltransferase (EC 2.5.1.-) COX10-CtaB	1	8	1
+FAMILY: PGF_00011528	FAMILY Name: Heparinase II III-like	1	8	1
+FAMILY: PGF_00011597	FAMILY Name: ABC-type transport system involved in resistance to organic solvents, ATPase component	1	8	1
+FAMILY: PGF_00011634	FAMILY Name: HflK protein	1	8	1
+FAMILY: PGF_00011713	FAMILY Name: High-affinity iron permease	1	8	1
+FAMILY: PGF_00011729	FAMILY Name: High-affinity leucine-specific transport system, periplasmic binding protein LivK (TC 3.A.1.4.1)	2	16	2
+FAMILY: PGF_00011979	FAMILY Name: Histidinol dehydrogenase (EC 1.1.1.23)	1	8	1
+FAMILY: PGF_00012186	FAMILY Name: HlyD family secretion protein	1	8	1
+FAMILY: PGF_00012257	FAMILY Name: Holin-like protein CidA	1	8	1
+FAMILY: PGF_00012264	FAMILY Name: Holliday junction ATP-dependent DNA helicase RuvB (EC 3.6.4.12)	1	8	1
+FAMILY: PGF_00012340	FAMILY Name: Homoserine dehydrogenase (EC 1.1.1.3)	1	8	1
+FAMILY: PGF_00012436	FAMILY Name: ABC-type uncharacterized transport system, periplasmic component	1	8	1
+FAMILY: PGF_00012820	FAMILY Name: Hydrolase, haloacid dehalogenase-like family	1	8	1
+FAMILY: PGF_00012851	FAMILY Name: Hydrolase, haloacid dehalogenase-like family	1	8	1
+FAMILY: PGF_00012982	FAMILY Name: Hydroxypyruvate isomerase (EC 5.3.1.22)	1	8	1
+FAMILY: PGF_00013003	FAMILY Name: Bis-ABC ATPase YheS	1	8	1
+FAMILY: PGF_00013065	FAMILY Name: Hypothetical exported proline-rich protein	1	8	1
+FAMILY: PGF_00013266	FAMILY Name: ADP-ribose pyrophosphatase of COG1058 family (EC 3.6.1.13)	1	8	1
+FAMILY: PGF_00013272	FAMILY Name: Hypothetical protein YaeJ with similarity to translation release factor	1	8	1
+FAMILY: PGF_00013283	FAMILY Name: UPF0001 protein YggS	1	8	1
+FAMILY: PGF_00013341	FAMILY Name: Hypothetical protein of L-Asparaginase type 2-like superfamily	1	8	1
