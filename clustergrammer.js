@@ -13788,6 +13788,7 @@ var Clustergrammer =
 	  });
 
 	  // average the values
+	  // this is where the average function is consuming a string 
 	  _.each(ds_mat, function (tmp_ds) {
 
 	    var tmp_row_data = tmp_ds.row_data;
