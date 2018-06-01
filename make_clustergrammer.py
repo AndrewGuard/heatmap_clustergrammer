@@ -14,8 +14,8 @@ net = Network()
 
 # WORKING SAMPLES
 # net.load_file('txt/micro_altered.tsv')
-# net.load_file('txt/tuple_micro_simplified.tsv')
-net.load_file('txt/tuple_micro_simplified_tiny.tsv')
+net.load_file('txt/tuple_micro_simplified.tsv')
+# net.load_file('txt/tuple_micro_simplified_tiny.tsv')
 
 
 
