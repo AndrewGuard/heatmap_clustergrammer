@@ -564,8 +564,8 @@ var Clustergrammer =
 	    show_tile_tooltips: true,
 	    // matrix options
 	    transpose: false,
-	    tile_colors: ['#FF0000', '#1C86EE'],
-	    bar_colors: ['#FF0000', '#1C86EE'],
+	    tile_colors: ['#FF6633', '#FF6633'],
+	    bar_colors: ['#FF6633', '#FF6633'],
 	    // value-cat colors
 	    // cat_value_colors: ['#2F4F4F', '#8A2BE2'],
 	    cat_value_colors: ['#2F4F4F', '#9370DB'],
@@ -14546,7 +14546,7 @@ var Clustergrammer =
 	      var root_tip_selector = params.viz.root_tips.replace('.', '');
 	      var class_string = root_tip_selector + ' d3-tip ' + root_tip_selector + '_tile_tip';
 	      return class_string;
-	    }).style('display', 'none').direction('nw').offset([0, 0]).html(function (d) {
+	    }).style('display', 'none').direction('nw').offset([0, 300]).html(function (d) {
 	      var inst_value = String(d.value.toFixed(3));
 	      var tooltip_string;
 
