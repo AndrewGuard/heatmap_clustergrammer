@@ -28,6 +28,8 @@ function make_clust(inst_network){
         'matrix_update_callback':matrix_update_callback,
         'cat_update_callback': cat_update_callback,
         'sidebar_width':150,
+        'col_label_scale': 1.5,
+        'row_label_scale': 2
         // 'ini_view':{'N_row_var':20}
         // 'ini_expand':true
       };
