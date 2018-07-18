@@ -14565,9 +14565,9 @@ var Clustergrammer =
 	    tip = null;
 	  }
 
-	  document.getElementsByClassName('clust_group').addEventListener('click', function(event) {
-		console.log(event)
-	  });
+	 //  document.getElementsByClassName('clust_group').addEventListener('click', function(event) {
+		// console.log(event)
+	 //  });
 
 	  // gather a subset of row data from the matrix or use all rows
 	  var matrix_subset = [];
