@@ -14565,9 +14565,21 @@ var Clustergrammer =
 	    tip = null;
 	  }
 
-	  document.getElementsByClassName('clust_group').addEventListener('click', function(event) {
-		console.log(event)
-	  });
+	 //  var closeIcons=document.getElementsByClassName('.monique-close-icon');  
+
+		// function closeBigImgAndContainer()
+		// {
+		//     MoniqueDiv.style.display= "none";
+		//     currentBigImageToDisplay.style.display="none";
+		// };
+
+		// for (i = 0; i < closeIcons.length; i++) {
+		//     closeIcons[i].addEventListener("click", closeBigImgAndContainer);
+		// }
+
+	 //  document.getElementsByClassName('clust_group').addEventListener('click', function(event) {
+		// console.log(event)
+	 //  });
 
 	  // gather a subset of row data from the matrix or use all rows
 	  var matrix_subset = [];
