@@ -14515,7 +14515,7 @@ var Clustergrammer =
 /***/ (function(module, exports, __webpack_require__) {
 
 	var make_simple_rows = __webpack_require__(94);
-	var d3_tip_custom = __webpack_require__(100);
+	var   = __webpack_require__(100);
 	var underscore = __webpack_require__(68);
 
 	// current matrix can change with downsampling
@@ -14542,6 +14542,8 @@ var Clustergrammer =
 	    // make rows in the matrix - add key names to rows in matrix
 	    /////////////////////////////////////////////////////////////
 	    // d3-tooltip - for tiles
+
+	    //TODO PATRIC - consider adding event listener as
 	    var tip = d3_tip_custom().attr('class', function () {
 	      var root_tip_selector = params.viz.root_tips.replace('.', '');
 	      var class_string = root_tip_selector + ' d3-tip ' + root_tip_selector + '_tile_tip';
@@ -14562,6 +14564,10 @@ var Clustergrammer =
 	  } else {
 	    tip = null;
 	  }
+
+	  document.getElementsByClassName('clust_group').addEventListener('click', function(event) {
+		console.log(event)
+	  });
 
 	  // gather a subset of row data from the matrix or use all rows
 	  var matrix_subset = [];
