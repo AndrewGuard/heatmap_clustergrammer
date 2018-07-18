@@ -14515,7 +14515,7 @@ var Clustergrammer =
 /***/ (function(module, exports, __webpack_require__) {
 
 	var make_simple_rows = __webpack_require__(94);
-	var   = __webpack_require__(100);
+	var d3_tip_custom = __webpack_require__(100);
 	var underscore = __webpack_require__(68);
 
 	// current matrix can change with downsampling
@@ -14565,9 +14565,9 @@ var Clustergrammer =
 	    tip = null;
 	  }
 
-	 //  document.getElementsByClassName('clust_group').addEventListener('click', function(event) {
-		// console.log(event)
-	 //  });
+	  document.getElementsByClassName('clust_group').addEventListener('click', function(event) {
+		console.log(event)
+	  });
 
 	  // gather a subset of row data from the matrix or use all rows
 	  var matrix_subset = [];
