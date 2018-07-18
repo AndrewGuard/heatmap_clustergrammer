@@ -14552,9 +14552,9 @@ var Clustergrammer =
 
 	      if (params.keep_orig) {
 	        var orig_value = String(d.value_orig.toFixed(3));
-	        tooltip_string = '<p>' + d.row_name + ' and ' + d.col_name + '</p>' + '<p> normalized value: ' + inst_value + '</p>' + '<div> original value: ' + orig_value + '</div>';
+	        tooltip_string = '<div>' + d.row_name + '</div><div>' + d.col_name + '</div>' + '<p> normalized value: ' + inst_value + '</p>' + '<div> original value: ' + orig_value + '</div>';
 	      } else {
-	        tooltip_string = '<p>' + d.row_name + ' and ' + d.col_name + '</p>' + '<div> value: ' + inst_value + '</div>';
+	        tooltip_string = '<div>' + d.row_name + '</div><div>' + d.col_name + '</div>' + '<div> value: ' + inst_value + '</div>';
 	      }
 
 	      return tooltip_string;
