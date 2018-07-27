@@ -27164,6 +27164,7 @@ var Clustergrammer =
 	    }
 	  }
 
+	  //where cropping begins on release
 	  function find_cropped_nodes(x_start, x_end, y_start, y_end, brush_start, brush_end) {
 
 	    // reverse if necessary (depending on how brushing was done)
